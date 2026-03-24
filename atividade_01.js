@@ -13,3 +13,4 @@ function somarNumeros() {
     alert("A soma dos números digitados é: " + soma);
 }
 somarNumeros();
+

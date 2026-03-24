@@ -8,3 +8,4 @@ numeros.sort((a, b) => a - b);
 
 console.log ("Valores em ordem decrescente: ");
 console.log (numeros);
+
